@@ -10,15 +10,12 @@ erstmal bisschen ausprobiert mit version control und herunterladen der template 
 
 
 
-### Fork von SH-pygame Template für 
-
-
-# TEST
-
+# Liam's Spiel
+## Fork von der SH-pygame Template.
 
 
 
-# Installation auf Linux
+### Installation auf Linux
 
 Schritt 1:
 Terminal öffnen und Repo klonen
@@ -36,3 +33,5 @@ source venv/bin/activate
 ```bash
 python starten.py
 ```
+
+
