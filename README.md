@@ -11,7 +11,7 @@
 
 
 # 🤩🤩🤩🤩🤩🤩Liam's Spiel
-## Fork von der SH-pygame Template.
+Fork von der [SH-pygame Template](https://github.com/istichel/SH-pygame). Ein (noch vielleicht) Python Spiel für den Informatik Unterricht.
 
 
 
