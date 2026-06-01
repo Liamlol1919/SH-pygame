@@ -1,3 +1,15 @@
+## CHANGELOG HIER:
+
+erstmal bisschen ausprobiert mit version control und herunterladen der template von sh-pygame.
+
+
+
+
+
+
+
+
+
 ### Fork von SH-pygame Template für 
 
 
