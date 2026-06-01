@@ -29,7 +29,8 @@ Virtuelle Umgebung aktivieren
 source venv/bin/activate
 ```
 
-## Starten des Spiels
+Schritt 3:
+Spiel starten
 ```bash
 python starten.py
 ```
