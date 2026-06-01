@@ -1,6 +1,6 @@
-## CHANGELOG HIER:
+## 🤖🤖CHANGELOG HIER:
 
-erstmal bisschen ausprobiert mit version control und herunterladen der template von sh-pygame.
+- im unterricht erstmal bisschen ausprobiert mit version control und herunterladen der template von sh-pygame.
 
 
 
