@@ -7,7 +7,7 @@
 - auf fehler in template gestoßen: pygame.error: File is not a Windows BMP file 
 -- pillow paket installiert , damit png und jpg unterstützt werden von pygame https://pillow.readthedocs.io/en/latest/handbook/tutorial.html
 
-
+- egal hab vergessen zu pushen alles hab am letzten monatag noch etwas weiter gemacht ab hier kommt alles was ich heute (8.6.) gemacht habe
 
 
 
