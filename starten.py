@@ -1,6 +1,8 @@
 # Importieren u. initialisieren der Pygame-Bibliothek
 from meinspiel import MeinSpiel
 import pygame
+import PIL
+from PIL import Image
 from pygame.locals import *
 pygame.init()
 

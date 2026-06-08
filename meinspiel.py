@@ -1,6 +1,6 @@
 import pygame
 class MeinSpiel:
-    bilder = ["Bilder/Grass.jpg","Bilder/Hase.jpg"]
+    bilder = ["Bilder/tung.png","Bilder/"]
     spielfeld = [] 
 
     def __init__(self, felderX, felderY):

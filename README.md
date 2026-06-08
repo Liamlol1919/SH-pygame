@@ -2,9 +2,10 @@
 
 - im unterricht erstmal bisschen ausprobiert mit version control und herunterladen der template von sh-pygame.
 
+- setup der readme und erste überlegungen für ein spiel
 
-
-
+- auf fehler in template gestoßen: pygame.error: File is not a Windows BMP file 
+-- pillow paket installiert , damit png und jpg unterstützt werden von pygame https://pillow.readthedocs.io/en/latest/handbook/tutorial.html
 
 
 
