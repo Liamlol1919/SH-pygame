@@ -1,5 +1,14 @@
-#importieren der essenziellen bibliotheken für eine leere pygame/opengl szene
+#grundgerüst.py
+
+#geiles tutorial: https://stackabuse.com/advanced-opengl-in-python-with-pygame-and-pyopengl/
+
+#importieren der essenziellen bibliotheken  - jetzt auch opengl
 import pygame
+
+from pygame.locals import *
+
+from OpenGL.GL import *
+from OpenGL.GLU import *
 
 
 #fenster und pygame initialisieren
@@ -9,10 +18,16 @@ höhe = 300
 breite = 600
 fgrösse = breite,höhe
 
-fenster =pygame.display.set_mode(fgrösse)
+
+# double buffer damit der frame erst im hintergrund gerendert wird
+fenster = pygame.display.set_mode(fgrösse, DOUBLEBUF|OPENGL)
+
 
 #titel
 pygame.display.set_caption("test test fenster fenster")
+
+#frustrum definieren
+gluPerspective(60, (breite / höhe), 0.1, 100.0)
 
 
 #farbenliste mit zyklus

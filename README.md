@@ -21,6 +21,10 @@ hinterlassen. es enthält noch kein opengl, aber die grundlegende logik des spie
 
 mal schauen ob ich heute noch weiter mache...:
 
+tatsächlich 23:45 okay ich habe mir ein tutorial https://stackabuse.com/advanced-opengl-in-python-with-pygame-and-pyopengl/ angeschaut und das hilft mir sehr weiter die opengl logik ins spiel zu implementieren.
+ich habe double buffer und das [Frustrum](https://de.wikipedia.org/wiki/Frustum) hinzugefügt, neue konzepte für mich.
+
+-zwischenstand: habe kurz weiter angeschaut wie man opengl in pygame nutzen kann und habe die ersten schritte in grundgerüst.py gemacht. gute nacht.
 
 
 
