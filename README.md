@@ -9,7 +9,18 @@ technische zusammenfassung:
 pygame nutzen für die spiel logik und opengl für das rendering der 3d szene.
 beispielsweise nutze ich pygame um tastatur input zu nehmen und dann positionen, funktionen und alles andere zu berechnen. visualisiert wird das in opengl (der 3d part) und die karte wird entweder mit opengl orthografischer projektion oder pygame.
 
-#### schritt 1 leeres fenster und grobe logik für das spiel definieren
+https://www.pygame.org/docs/tut/PygameIntro.html
+
+### schritt 1 leeres fenster und grobe logik für das spiel definieren
+
+okay ich habe schon genug kommentare in 
+```bash
+leeresfenstertest.py
+```
+hinterlassen. es enthält noch kein opengl, aber die grundlegende logik des spiel frames besteht aus input anschauen -> spiellogik bearbeiten -> opengl ackern lassen -> frame zeichnen.
+
+mal schauen ob ich heute noch weiter mache...:
+
 
 
 
