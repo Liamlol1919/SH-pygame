@@ -1,32 +1,10 @@
-## 🤖🤖CHANGELOG HIER:
+## 🤖🤖CHANGELOG/DEVLOG HIER:
 
-3d engine brainstorming:
+heute arbeiten wir weiter am grundgerüst.py
+opengl ist echt kompliziert.
+aber wir haben jetzt erfolgreich einen würfel erstellt, gerendered und mit kamera_x und kamera_z die perspektive geändert.
 
-opengl für das 3d rendering nutzen
-
-technische zusammenfassung:
-
-pygame nutzen für die spiel logik und opengl für das rendering der 3d szene.
-beispielsweise nutze ich pygame um tastatur input zu nehmen und dann positionen, funktionen und alles andere zu berechnen. visualisiert wird das in opengl (der 3d part) und die karte wird entweder mit opengl orthografischer projektion oder pygame.
-
-https://www.pygame.org/docs/tut/PygameIntro.html
-
-### schritt 1 leeres fenster und grobe logik für das spiel definieren
-
-okay ich habe schon genug kommentare in 
-```bash
-leeresfenstertest.py
-```
-hinterlassen. es enthält noch kein opengl, aber die grundlegende logik des spiel frames besteht aus input anschauen -> spiellogik bearbeiten -> opengl ackern lassen -> frame zeichnen.
-
-mal schauen ob ich heute noch weiter mache...:
-
-tatsächlich 23:45 okay ich habe mir ein tutorial https://stackabuse.com/advanced-opengl-in-python-with-pygame-and-pyopengl/ angeschaut und das hilft mir sehr weiter die opengl logik ins spiel zu implementieren.
-ich habe double buffer und das [Frustrum](https://de.wikipedia.org/wiki/Frustum) hinzugefügt, neue konzepte für mich.
-
--zwischenstand: habe kurz weiter angeschaut wie man opengl in pygame nutzen kann und habe die ersten schritte in grundgerüst.py gemacht. gute nacht.
-
-
+als nächstes steht an: spielmechanik 2d karte über der 3d szene
 
 # 🤩🤩🤩🤩🤩🤩Liam's Spiel
 Fork von der [SH-pygame Template](https://github.com/istichel/SH-pygame). Ein Python Spiel für den Informatik Unterricht.
