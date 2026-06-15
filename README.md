@@ -1,10 +1,6 @@
 ## 🤖🤖CHANGELOG/DEVLOG HIER:
 
-heute arbeiten wir weiter am grundgerüst.py
-opengl ist echt kompliziert.
-aber wir haben jetzt erfolgreich einen würfel erstellt, gerendered und mit kamera_x und kamera_z die perspektive geändert.
-
-als nächstes steht an: spielmechanik 2d karte über der 3d szene
+2d kartenfunktion halbwegs eingerichtet muss aber weitergemacht werden.
 
 # 🤩🤩🤩🤩🤩🤩Liam's Spiel
 Fork von der [SH-pygame Template](https://github.com/istichel/SH-pygame). Ein Python Spiel für den Informatik Unterricht.
