@@ -1,6 +1,6 @@
 ## 🤖🤖CHANGELOG/DEVLOG HIER:
 
-2d kartenfunktion halbwegs eingerichtet muss aber weitergemacht werden.
+2d kartenfunktion FUNKTIONIERT als isoliertes feature aber erst.
 
 # 🤩🤩🤩🤩🤩🤩Liam's Spiel
 Fork von der [SH-pygame Template](https://github.com/istichel/SH-pygame). Ein Python Spiel für den Informatik Unterricht.
